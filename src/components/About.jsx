@@ -22,7 +22,7 @@ const About = () => {
         Actively seeking new opportunities
       </div>
       <div className="resume-note">
-        <div><a href="./Harshitha_CV_13_09_25.pdf" target="_blank" download='harshitha_resume.pdf' type="application/octet-stream">Download CV</a></div>
+        <div><a href="./Harshitha_CV_10_09_2025.pdf" target="_blank" download='harshitha_resume.pdf' type="application/octet-stream">Download CV</a></div>
         <div><a href="https://mail.google.com/mail/?view=cm&to=harshithaannam149@gmail.com" target="_blank">Send a Note</a></div>
       </div>
     </section>
